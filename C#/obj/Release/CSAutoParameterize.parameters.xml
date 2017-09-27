@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DatabaseContext-Web.config Connection String" description="DatabaseContext Connection String used in web.config by the application to access the database." defaultValue="metadata=&quot;res://*/App_Logic.Entity Model.DatabaseContext.csdl|res://*/App_Logic.Entity Model.DatabaseContext.ssdl|res://*/App_Logic.Entity Model.DatabaseContext.msl&quot;;provider=System.Data.SqlClient;provider connection string=&quot;Data source=.\D:\PROJECTS\OPEN-SOURCE\EISK\SOURCE\V5.0 - WEB FORM EDITION\EISK.WEB\APP_DATA\DATABASE.MDF;Integrated Security=True;AttachDBFilename=|DataDirectory|\Database.mdf;User Instance=true&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Workspace-uDeploy\\uDeploy\\C\#\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DatabaseContext']/@connectionString" />
+  </parameter>
+</parameters>

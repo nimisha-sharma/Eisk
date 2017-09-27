@@ -1,0 +1,5 @@
+C:\Employee Info Starter Kit\C#\bin\Eisk.Web.dll.config
+C:\Employee Info Starter Kit\C#\bin\Eisk.Web.dll
+C:\Employee Info Starter Kit\C#\bin\Eisk.Web.pdb
+C:\Employee Info Starter Kit\C#\obj\Debug\Eisk.Web.dll
+C:\Employee Info Starter Kit\C#\obj\Debug\Eisk.Web.pdb

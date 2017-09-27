@@ -1,0 +1,12 @@
+C:\Employee Info Starter Kit\C#\bin\Eisk.Web.dll.config
+C:\Employee Info Starter Kit\C#\bin\Eisk.Web.dll
+C:\Employee Info Starter Kit\C#\bin\Eisk.Web.pdb
+C:\Employee Info Starter Kit\C#\obj\Release\Eisk.Web.csprojResolveAssemblyReference.cache
+C:\Employee Info Starter Kit\C#\obj\Release\Eisk.Web.dll
+C:\Employee Info Starter Kit\C#\obj\Release\Eisk.Web.pdb
+C:\Workspace-uDeploy\uDeploy\C#\bin\Eisk.Web.dll.config
+C:\Workspace-uDeploy\uDeploy\C#\bin\Eisk.Web.dll
+C:\Workspace-uDeploy\uDeploy\C#\bin\Eisk.Web.pdb
+C:\Workspace-uDeploy\uDeploy\C#\obj\Release\Eisk.Web.csprojResolveAssemblyReference.cache
+C:\Workspace-uDeploy\uDeploy\C#\obj\Release\Eisk.Web.dll
+C:\Workspace-uDeploy\uDeploy\C#\obj\Release\Eisk.Web.pdb
